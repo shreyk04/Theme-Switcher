@@ -40,7 +40,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## 📱 Demo
 
-**Live Demo**: [View App](https://your-app-name.vercel.app)
+**Live Demo**: [View App](https://theme-switcher-steel.vercel.app/)
 
 Try switching between themes using the dropdown in the header!
 
